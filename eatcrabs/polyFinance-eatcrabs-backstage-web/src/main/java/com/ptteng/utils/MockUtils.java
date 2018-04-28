@@ -51,11 +51,6 @@ public class MockUtils {
             logger.warn("设置属性失败，错误类型：" + e.getClass().getName() + " ,类名：" + domainClass.getName());
         }
         List<T> list = new ArrayList<>();
-        try {
-            m = domainClass.getDeclaredMethod("setId", String.class);
-        } catch (NoSuchMethodException e) {
-            logger.warn("该实体类缺少setId()方法：" + domainClass.getName());
-        }
         for (int i = 0; i < SIZE; i++) {
             list.add(domain);
         }
