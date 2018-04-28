@@ -40,8 +40,14 @@
         </dependency>
 
         <!--jsontaglib-->
+        <!--<dependency>-->
+            <!--<groupId>atg.taglib.json</groupId>-->
+            <!--<artifactId>json-taglib</artifactId>-->
+            <!--<version>${json-taglib}</version>-->
+        <!--</dependency>-->
+
         <dependency>
-            <groupId>atg.taglib.json</groupId>
+            <groupId>json-taglib</groupId>
             <artifactId>json-taglib</artifactId>
             <version>${json-taglib}</version>
         </dependency>
