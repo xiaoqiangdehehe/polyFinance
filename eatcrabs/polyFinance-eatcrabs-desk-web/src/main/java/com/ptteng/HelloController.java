@@ -11,7 +11,7 @@ public class HelloController {
 
 
     @RequestMapping("/")
-    public String helloJsp(Map<String, Object> map) {
+    public String helloJsp() {
         return "helloJsp";
     }
 
