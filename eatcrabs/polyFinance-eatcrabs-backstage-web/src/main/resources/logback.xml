@@ -125,11 +125,11 @@
     </appender>
 
     <!-- General Apache libraries -->
-    <logger name="org.apache" level="WARN" additivity="false" />
+    <!--<logger name="org.apache" level="WARN" additivity="false" />-->
     <!-- Spring -->
-    <logger name="org.springframework" level="WARN" additivity="false" />
+    <!--<logger name="org.springframework" level="WARN" additivity="false" />-->
     <!-- sql loggers -->
-    <logger name="java.sql" level="WARN"  additivity="false"/>
+    <!--<logger name="java.sql" level="WARN"  additivity="false"/>-->
 
     <!-- 如果没有单独指定Logger，那么该根目录下就会默认使用root日志输出 -->
     <root level="INFO">

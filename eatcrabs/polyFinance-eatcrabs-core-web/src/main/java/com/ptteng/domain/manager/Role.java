@@ -1,12 +1,22 @@
 package com.ptteng.domain.manager;
 
+import javax.persistence.*;
+
 /**
  * 角色表-manager
  */
+
+@Entity//是指这个类映射有数据库表 javax.persistence.Entity 才可以移植
+@Table(name = "s_role")//数据表名字
 public class Role {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    @Column(name = "name", columnDefinition = "char(16)", nullable = false)
     private String name;
+    @Column(name = "create_at", nullable = false)
     private Long createAt;
+    @Column(name = "update_at")
     private Long updateAt;
 
     public void setId(Long id) {
