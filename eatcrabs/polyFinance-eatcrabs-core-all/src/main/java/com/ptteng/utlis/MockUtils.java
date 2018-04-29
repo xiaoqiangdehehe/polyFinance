@@ -14,7 +14,7 @@ public class MockUtils {
     public static final int COUNT = 20;
     private static final int SIZE = 10;
 
-    public static <T extends Serializable> List<T> getMockDomainPage(Class<T> domainClass) {
+    public static <T extends Serializable> T getMockDomain(Class<T> domainClass){
         T domain = null;
         try {
             domain = domainClass.newInstance();
@@ -50,6 +50,11 @@ public class MockUtils {
             e.printStackTrace();
             logger.warn("设置属性失败，错误类型：" + e.getClass().getName() + " ,类名：" + domainClass.getName());
         }
+        return domain;
+    }
+
+    public static <T extends Serializable> List<T> getMockDomainPage(Class<T> domainClass) {
+        T domain = getMockDomain(domainClass);
         List<T> list = new ArrayList<>();
         for (int i = 0; i < SIZE; i++) {
             list.add(domain);
