@@ -1,9 +1,11 @@
 package com.ptteng.domain.manager;
 
+import java.io.Serializable;
+
 /**
  * 模块表-manager
  */
-public class Module {
+public class Module implements Serializable {
     private Long id;
     private String name;
     private Long fmoduleId;

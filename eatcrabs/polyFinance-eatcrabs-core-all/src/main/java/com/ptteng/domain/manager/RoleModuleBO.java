@@ -1,9 +1,11 @@
 package com.ptteng.domain.manager;
 
+import java.io.Serializable;
+
 /**
  * 角色-模块关系表-manager
  */
-public class RoleModuleBO {
+public class RoleModuleBO implements Serializable {
     private Long id;
     private Long roleId;
     private Long moduleId;

@@ -1,6 +1,7 @@
 package com.ptteng.domain.manager;
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 /**
  * 角色表-manager
@@ -8,7 +9,7 @@ import javax.persistence.*;
 
 @Entity//是指这个类映射有数据库表 javax.persistence.Entity 才可以移植
 @Table(name = "s_role")//数据表名字
-public class Role {
+public class Role implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

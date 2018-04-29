@@ -1,6 +1,8 @@
 package com.ptteng.domain.business;
 
-public class InvestDebtBO {
+import java.io.Serializable;
+
+public class InvestDebtBO implements Serializable {
     private Long id;
     private Long investId;
     private Long debtId;

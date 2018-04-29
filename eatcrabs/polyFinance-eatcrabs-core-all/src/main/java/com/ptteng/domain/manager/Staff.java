@@ -1,9 +1,11 @@
 package com.ptteng.domain.manager;
 
+import java.io.Serializable;
+
 /**
  * 员工表-manager
  */
-public class Staff {
+public class Staff implements Serializable {
     private Long id;
     private String account;
     private String key;

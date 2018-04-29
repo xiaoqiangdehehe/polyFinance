@@ -1,9 +1,11 @@
 package com.ptteng.domain.business;
 
+import java.io.Serializable;
+
 /**
  * 投资者绑卡信息表
  */
-public class UserCard {
+public class UserCard implements Serializable {
     private Long id;
     private Long userId;
     private String bankCard;

@@ -1,9 +1,11 @@
 package com.ptteng.domain.business;
 
+import java.io.Serializable;
+
 /**
  * 投资者账户信息表
  */
-public class Depositor {
+public class Depositor implements Serializable {
     private Long id;
     private Long userId;
     private Long total;

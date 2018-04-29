@@ -1,9 +1,11 @@
 package com.ptteng.domain.manager;
 
+import java.io.Serializable;
+
 /**
  * 超管表-manager
  */
-public class Root {
+public class Root implements Serializable {
     private Long id;
     private String account;
     private String key;

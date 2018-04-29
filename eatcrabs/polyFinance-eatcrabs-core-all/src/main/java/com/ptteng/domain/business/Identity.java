@@ -1,9 +1,11 @@
 package com.ptteng.domain.business;
 
+import java.io.Serializable;
+
 /**
  * 投资者实名信息表
  */
-public class Identity {
+public class Identity implements Serializable {
     private Long id;
     private Long userId;
     private String name;
