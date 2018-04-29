@@ -12,7 +12,6 @@ public class OperationController {
     @RequestMapping(value = "/a/banner/list")
     public String getBannerList(Model model){
         model.addAttribute("banners",MockUtils.getMockDomainPage(Banner.class));
-        System.out.println(MockUtils.getMockDomainPage(Banner.class));
         model.addAttribute("count",MockUtils.COUNT);
         return "bannerList";
     }
