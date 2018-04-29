@@ -1,12 +1,15 @@
-package com.ptteng.domain.manager;
+package com.ptteng.domain;
 
 /**
- * 超管表-manager
+ * 投资者登陆信息表
  */
-public class SRoot {
+public class User {
     private Long id;
     private String account;
     private String key;
+    private String gesture;
+    private String number;
+    private Integer freeze;
     private Long createAt;
     private Long updateAt;
 
@@ -34,6 +37,30 @@ public class SRoot {
         return key;
     }
 
+    public void setGesture(String gesture) {
+        this.gesture = gesture;
+    }
+
+    public String getGesture() {
+        return gesture;
+    }
+
+    public void setNumber(String number) {
+        this.number = number;
+    }
+
+    public String getNumber() {
+        return number;
+    }
+
+    public void setFreeze(Integer freeze) {
+        this.freeze = freeze;
+    }
+
+    public Integer getFreeze() {
+        return freeze;
+    }
+
     public void setCreateAt(Long createAt) {
         this.createAt = createAt;
     }
@@ -51,13 +78,16 @@ public class SRoot {
     }
 
     @Override
-    public String toString() {
-        return "SRoot{" +
+    public String toString(){
+        return "SUser{" +
                 "id = " + id +
                 ", account = " + account +
-                ". key = " + key +
+                ", key = " + key +
+                ", gesture = " + gesture +
+                ", number = " + number +
+                ", freeze = " + freeze +
                 ", createAt = " + createAt +
-                ". updateAt = " + updateAt +
+                ", updateAt = " + updateAt +
                 "}";
     }
 }

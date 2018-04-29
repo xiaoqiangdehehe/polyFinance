@@ -1,9 +1,9 @@
-package com.ptteng.domain.business;
+package com.ptteng.domain;
 
 /**
  * 投资者账户信息表
  */
-public class BDepositor {
+public class Depositor {
     private Long id;
     private Long userId;
     private Long total;

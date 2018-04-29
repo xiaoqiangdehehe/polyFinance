@@ -1,9 +1,9 @@
-package com.ptteng.domain.business;
+package com.ptteng.domain;
 
 /**
  * 投资者绑卡信息表
  */
-public class BUserCard {
+public class UserCard {
     private Long id;
     private Long userId;
     private String bankCard;

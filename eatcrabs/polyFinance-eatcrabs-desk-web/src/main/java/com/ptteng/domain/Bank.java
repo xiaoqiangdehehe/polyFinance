@@ -1,9 +1,9 @@
-package com.ptteng.domain.business;
+package com.ptteng.domain;
 
 /**
  * 银行卡信息表
  */
-public class BBank {
+public class Bank {
     private Long id;
     private String name;
     private String number;

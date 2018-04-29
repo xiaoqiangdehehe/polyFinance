@@ -1,9 +1,9 @@
-package com.ptteng.domain.manager;
+package com.ptteng.domain;
 
 /**
  * 角色表-manager
  */
-public class SRole {
+public class Role {
     private Long id;
     private String name;
     private Long createAt;

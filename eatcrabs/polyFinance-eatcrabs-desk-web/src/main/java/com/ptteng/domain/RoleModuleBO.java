@@ -1,9 +1,9 @@
-package com.ptteng.domain.manager;
+package com.ptteng.domain;
 
 /**
  * 角色-模块关系表-manager
  */
-public class RRoleModule {
+public class RoleModuleBO {
     private Long id;
     private Long roleId;
     private Long moduleId;

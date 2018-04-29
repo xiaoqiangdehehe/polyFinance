@@ -1,9 +1,9 @@
-package com.ptteng.domain.business;
+package com.ptteng.domain;
 
 /**
  * 投资者实名信息表
  */
-public class BIdentity {
+public class Identity {
     private Long id;
     private Long userId;
     private String name;

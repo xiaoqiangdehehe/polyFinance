@@ -1,14 +1,12 @@
-package com.ptteng.domain.manager;
+package com.ptteng.domain;
 
 /**
- * 员工表-manager
+ * 超管表-manager
  */
-public class SStaff {
+public class Root {
     private Long id;
     private String account;
     private String key;
-    private String mobile;
-    private Long roleId;
     private Long createAt;
     private Long updateAt;
 
@@ -36,22 +34,6 @@ public class SStaff {
         return key;
     }
 
-    public void setMobile(String mobile) {
-        this.mobile = mobile;
-    }
-
-    public String getMobile() {
-        return mobile;
-    }
-
-    public void setRoleId(Long roleId) {
-        this.roleId = roleId;
-    }
-
-    public Long getRoleId() {
-        return roleId;
-    }
-
     public void setCreateAt(Long createAt) {
         this.createAt = createAt;
     }
@@ -70,14 +52,12 @@ public class SStaff {
 
     @Override
     public String toString() {
-        return "SStaff{" +
+        return "SRoot{" +
                 "id = " + id +
                 ", account = " + account +
-                ", key = " + key +
-                ", mobile = " + mobile +
-                ", roleId = " + roleId +
+                ". key = " + key +
                 ", createAt = " + createAt +
-                ", updateAt = " + updateAt +
+                ". updateAt = " + updateAt +
                 "}";
     }
 }

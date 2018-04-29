@@ -1,15 +1,14 @@
-package com.ptteng.domain.business;
+package com.ptteng.domain;
 
 /**
- * 投资者登陆信息表
+ * 员工表-manager
  */
-public class SUser {
+public class Staff {
     private Long id;
     private String account;
     private String key;
-    private String gesture;
-    private String number;
-    private Integer freeze;
+    private String mobile;
+    private Long roleId;
     private Long createAt;
     private Long updateAt;
 
@@ -37,28 +36,20 @@ public class SUser {
         return key;
     }
 
-    public void setGesture(String gesture) {
-        this.gesture = gesture;
+    public void setMobile(String mobile) {
+        this.mobile = mobile;
     }
 
-    public String getGesture() {
-        return gesture;
+    public String getMobile() {
+        return mobile;
     }
 
-    public void setNumber(String number) {
-        this.number = number;
+    public void setRoleId(Long roleId) {
+        this.roleId = roleId;
     }
 
-    public String getNumber() {
-        return number;
-    }
-
-    public void setFreeze(Integer freeze) {
-        this.freeze = freeze;
-    }
-
-    public Integer getFreeze() {
-        return freeze;
+    public Long getRoleId() {
+        return roleId;
     }
 
     public void setCreateAt(Long createAt) {
@@ -78,14 +69,13 @@ public class SUser {
     }
 
     @Override
-    public String toString(){
-        return "SUser{" +
+    public String toString() {
+        return "SStaff{" +
                 "id = " + id +
                 ", account = " + account +
                 ", key = " + key +
-                ", gesture = " + gesture +
-                ", number = " + number +
-                ", freeze = " + freeze +
+                ", mobile = " + mobile +
+                ", roleId = " + roleId +
                 ", createAt = " + createAt +
                 ", updateAt = " + updateAt +
                 "}";

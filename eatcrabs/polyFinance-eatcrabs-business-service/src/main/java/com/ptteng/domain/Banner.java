@@ -11,6 +11,19 @@ public class Banner implements Serializable {
     private Long createAt;
     private Long updateAt;
 
+    public Banner() {
+    }
+
+    public Banner(Long id, String name, String content, String img, Integer online, Long createAt, Long updateAt) {
+        this.id = id;
+        this.name = name;
+        this.content = content;
+        this.img = img;
+        this.online = online;
+        this.createAt = createAt;
+        this.updateAt = updateAt;
+    }
+
     public Long getId() {
         return id;
     }

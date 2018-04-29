@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a8a3830-5054-432f-825a-bdd74dadf097" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-business-service/src/main/java/com/ptteng/domain/Banner.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/controller/OperationController.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/controller/OperationController.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/Banner.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/Banner.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/business/BBank.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Bank.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/business/BDepositor.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Depositor.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/business/BIdentity.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Identity.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/business/BUserCard.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/UserCard.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/business/SUser.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/User.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/manager/RRoleModule.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/RoleModuleBO.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/manager/SModule.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Module.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/manager/SRole.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Role.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/manager/SRoot.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Root.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/manager/SStaff.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Staff.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,8 +38,8 @@
       <file leaf-file-name="OperationController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/controller/OperationController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="399">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bannerList.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bannerList.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/webapp/WEB-INF/bannerList.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="273">
+              <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -48,8 +60,18 @@
       <file leaf-file-name="MockUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/utils/MockUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="57" column="5" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="57" selection-end-column="5" />
+            <state relative-caret-position="84">
+              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Staff.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Staff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -96,7 +118,6 @@
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-business-service/pom.xml" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/BackstageApplication.java" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/HelloController.java" />
-        <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/Banner.java" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/dto/BannerDTO.java" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/controller/InvestController.java" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/webapp/WEB-INF/bannerList.jsp" />
@@ -105,6 +126,10 @@
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/pom.xml" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/utils/MockUtils.java" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/controller/OperationController.java" />
+        <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/Banner.java" />
+        <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/User.java" />
+        <option value="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/manager/Staff.java" />
+        <option value="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Staff.java" />
       </list>
     </option>
   </component>
@@ -297,6 +322,41 @@
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-business-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-business-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-business-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-business-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-business-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
               <item name="polyFinance-eatcrabs-desk-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -328,6 +388,34 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ptteng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-desk-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ptteng" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-desk-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ptteng" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-desk-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
@@ -369,6 +457,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ptteng.domain" />
       <recent name="com.ptteng" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -537,7 +626,7 @@
       <workItem from="1524894309055" duration="38000" />
       <workItem from="1524894608412" duration="648000" />
       <workItem from="1524895263852" duration="18560000" />
-      <workItem from="1524964420139" duration="137000" />
+      <workItem from="1524964420139" duration="3771000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1524894706251</created>
@@ -588,7 +677,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524928011754</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="假数据模板编写&#10;springboot::run 控制台中文乱码解决">
+      <created>1524964577544</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1524964577544</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -624,11 +720,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27439000" />
+    <option name="totallyTimeSpent" value="31073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -644,7 +739,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -723,6 +818,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -754,6 +850,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -775,6 +872,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -794,6 +892,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="698">
           <caret line="142" column="16" lean-forward="false" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -808,6 +907,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -830,6 +930,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -865,6 +966,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -872,6 +974,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -919,13 +1022,6 @@
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/Banner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -980,28 +1076,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/utils/MockUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="57" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/controller/OperationController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-business-service/src/main/java/com/ptteng/domain/Banner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="79" column="18" lean-forward="false" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+          <folding>
+            <element signature="e#337#338#0" expanded="false" />
+            <element signature="e#362#363#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#458#459#0" expanded="false" />
+            <element signature="e#488#489#0" expanded="false" />
+            <element signature="e#534#535#0" expanded="false" />
+            <element signature="e#572#573#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#628#629#0" expanded="false" />
+            <element signature="e#666#667#0" expanded="false" />
+            <element signature="e#696#697#0" expanded="false" />
+            <element signature="e#730#731#0" expanded="false" />
+            <element signature="e#760#761#0" expanded="false" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#844#845#0" expanded="false" />
+            <element signature="e#877#878#0" expanded="false" />
+            <element signature="e#906#907#0" expanded="false" />
+            <element signature="e#950#951#0" expanded="false" />
+            <element signature="e#986#987#0" expanded="false" />
+            <element signature="e#1020#1021#0" expanded="false" />
+            <element signature="e#1049#1050#0" expanded="false" />
+            <element signature="e#1094#1095#0" expanded="false" />
+            <element signature="e#1130#1131#0" expanded="false" />
+            <element signature="e#1163#1164#0" expanded="false" />
+            <element signature="e#1194#1195#0" expanded="false" />
+            <element signature="e#1240#1241#0" expanded="false" />
+            <element signature="e#1280#1281#0" expanded="false" />
+            <element signature="e#1313#1314#0" expanded="false" />
+            <element signature="e#1344#1345#0" expanded="false" />
+            <element signature="e#1390#1391#0" expanded="false" />
+            <element signature="e#1430#1431#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/domain/Banner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/webapp/WEB-INF/bannerList.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="273">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/utils/MockUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/domain/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>

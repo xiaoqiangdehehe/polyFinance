@@ -1,9 +1,9 @@
-package com.ptteng.domain.manager;
+package com.ptteng.domain;
 
 /**
  * 模块表-manager
  */
-public class SModule {
+public class Module {
     private Long id;
     private String name;
     private Long fmoduleId;
