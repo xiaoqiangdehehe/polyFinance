@@ -10,6 +10,7 @@
 <configuration scan="true" scanPeriod="60 seconds" debug="false">
     <!-- 定义日志文件 输入位置 -->
     <property name="log_dir" value="E:/logs/desk-web" />
+    <!--<property name="log_dir" value="desk-web" />-->
     <!-- 日志最大的历史 30天 -->
     <property name="maxHistory" value="30"/>
     <property name="charSet" value="UTF-8"/>
