@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
 @RequestMapping(value = "/b")
-public class indexController {
+public class IndexController {
 
     //首页-主页
     @RequestMapping(value = "/u/index", method = RequestMethod.GET)

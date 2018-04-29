@@ -18,7 +18,7 @@ public class loginController {
     //注册（找回密码）-获取验证码
     @RequestMapping(value = "/u/vcode", method = RequestMethod.GET)
     public String getVCode(String mobile, String type) {
-        return "vcode";
+        return "uvcode";
     }
 
     //注册
