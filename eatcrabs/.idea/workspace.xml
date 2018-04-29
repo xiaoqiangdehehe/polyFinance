@@ -2,20 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a8a3830-5054-432f-825a-bdd74dadf097" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Bank.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Banner.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/DealRecord.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Debt.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Depositor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Event.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Identity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Interest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/InvestDebtBO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Mail.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Opinion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/Product.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/business/UserCard.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/manager/Module.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/manager/Role.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/manager/RoleModuleBO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/manager/Root.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/domain/manager/Staff.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/classes/com/ptteng/utlis/MockUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/core-all.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/eatcrabs.iml" afterPath="$PROJECT_DIR$/eatcrabs.iml" />
       <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/polyFinance-eatcrabs-backstage-web.iml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/polyFinance-eatcrabs-backstage-web.iml" />
       <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/pom.xml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-business-service/polyFinance-eatcrabs-business-service.iml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-business-service/polyFinance-eatcrabs-business-service.iml" />
       <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-business-service/pom.xml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-business-service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-common-service/polyFinance-eatcrabs-common-service.iml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-common-service/polyFinance-eatcrabs-common-service.iml" />
       <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-common-service/pom.xml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-common-service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/polyFinance-eatcrabs-core-web.iml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/polyFinance-eatcrabs-core-web.iml" />
-      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/pom.xml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/polyFinance-eatcrabs-core-web.iml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/polyFinance-eatcrabs-core-all.iml" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/pom.xml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Bank.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Bank.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Banner.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Banner.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/DealRecord.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/DealRecord.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Debt.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Debt.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Depositor.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Depositor.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Event.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Event.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Identity.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Identity.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Interest.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Interest.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/InvestDebtBO.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/InvestDebtBO.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Mail.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Mail.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Opinion.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Opinion.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Product.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Product.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/User.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/User.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/UserCard.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/UserCard.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Module.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/Module.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Role.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/Role.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/RoleModuleBO.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/RoleModuleBO.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Root.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/Root.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Staff.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/Staff.java" />
+      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/utlis/MockUtils.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/utlis/MockUtils.java" />
       <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/polyFinance-eatcrabs-desk-web.iml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/polyFinance-eatcrabs-desk-web.iml" />
       <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/pom.xml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/DeskApplication.java" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/DeskApplication.java" />
-      <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/polyFinance-eatcrabs-manager-service.iml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/polyFinance-eatcrabs-manager-service.iml" />
       <change beforePath="$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/pom.xml" afterPath="$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/pom.xml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
@@ -30,6 +74,7 @@
     <ignored path="$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/target/" />
     <ignored path="$PROJECT_DIR$/polyFinance=eatcrabs=core=web/target/" />
     <ignored path="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/target/" />
+    <ignored path="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +84,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/pom.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -52,50 +97,28 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-630">
-              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="294">
+              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BackstageApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/BackstageApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="105" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeskApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/DeskApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/pom.xml">
+        <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="399">
+              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -167,14 +190,15 @@
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Role.java" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/BackstageApplication.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/DeskApplication.java" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/pom.xml" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-business-service/pom.xml" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-common-service/pom.xml" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-core-web/pom.xml" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/pom.xml" />
-        <option value="$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/DeskApplication.java" />
         <option value="$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/polyFinance-eatcrabs-core-all/pom.xml" />
       </list>
     </option>
   </component>
@@ -387,25 +411,25 @@
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -413,7 +437,7 @@
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -422,7 +446,7 @@
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -432,7 +456,7 @@
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -443,7 +467,7 @@
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -454,7 +478,7 @@
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -464,14 +488,14 @@
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eatcrabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="eatcrabs" type="462c0819:PsiDirectoryNode" />
-              <item name="polyFinance-eatcrabs-core-web" type="462c0819:PsiDirectoryNode" />
+              <item name="polyFinance-eatcrabs-core-all" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -788,7 +812,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524987270309</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="core包依赖解决">
+      <created>1524990145541</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1524990145541</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -824,14 +855,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40732000" />
+    <option name="totallyTimeSpent" value="41263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32671675" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32671675" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -910,7 +941,7 @@
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/manager/RoleModule.java" />
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/manager/Staff.java" />
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/manager/Role.java" />
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Product.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -918,7 +949,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Root.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/Root.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -927,7 +958,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/RoleModule.java" />
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Module.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/Module.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -935,7 +966,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Staff.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/Staff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -951,7 +982,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/RoleModuleBO.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/RoleModuleBO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -966,7 +997,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Depositor.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Depositor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -974,7 +1005,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/UserCard.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/UserCard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -989,7 +1020,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Bank.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -997,7 +1028,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Identity.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Identity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1005,7 +1036,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Debt.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Debt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1013,7 +1044,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Banner.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Banner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1021,7 +1052,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Interest.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Interest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1029,7 +1060,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/User.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1037,7 +1068,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Event.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Event.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1045,7 +1076,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/DealRecord.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/DealRecord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1074,7 +1105,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Opinion.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Opinion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1082,7 +1113,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Mail.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/Mail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1090,7 +1121,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/InvestDebtBO.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/business/InvestDebtBO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1124,14 +1155,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/test/java/com/ptteng/MyTest.java" />
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/controller/OperationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/business/Role.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1156,7 +1179,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/utlis/MockUtils.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/utlis/MockUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -1164,7 +1187,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/src/main/java/com/ptteng/domain/manager/Role.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/src/main/java/com/ptteng/domain/manager/Role.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -1172,43 +1195,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/DeskApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="161" column="17" lean-forward="false" selection-start-line="161" selection-start-column="17" selection-end-line="161" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-business-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-common-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="23" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1220,28 +1213,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/src/main/java/com/ptteng/DeskApplication.java">
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/src/main/java/com/ptteng/controller/OperationController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-backstage-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-business-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-common-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-desk-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="294">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-manager-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polyFinance-eatcrabs-core-all/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding />
         </state>
       </provider>
