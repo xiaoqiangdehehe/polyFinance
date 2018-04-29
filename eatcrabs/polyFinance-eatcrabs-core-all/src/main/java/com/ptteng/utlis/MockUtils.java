@@ -14,7 +14,7 @@ public class MockUtils {
     public static final int COUNT = 20;
     private static final int SIZE = 10;
 
-    public static <T extends Serializable> T getMockDomain(Class<T> domainClass){
+    public static <T extends Serializable> T getMockDomain(Class<T> domainClass) {
         T domain = null;
         try {
             domain = domainClass.newInstance();
