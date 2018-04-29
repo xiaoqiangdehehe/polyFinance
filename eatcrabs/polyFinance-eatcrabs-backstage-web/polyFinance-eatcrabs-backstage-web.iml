@@ -127,5 +127,8 @@
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:1.13.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-orm:4.3.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:4.3.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.39" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid:1.1.5" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.1.23" level="project" />
   </component>
 </module>
